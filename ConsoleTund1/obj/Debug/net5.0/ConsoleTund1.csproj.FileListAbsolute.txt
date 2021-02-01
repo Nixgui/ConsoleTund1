@@ -1,0 +1,16 @@
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\obj\Debug\net5.0\ConsoleTund1.csprojAssemblyReference.cache
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\obj\Debug\net5.0\ConsoleTund1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\obj\Debug\net5.0\ConsoleTund1.AssemblyInfoInputs.cache
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\obj\Debug\net5.0\ConsoleTund1.AssemblyInfo.cs
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\obj\Debug\net5.0\ConsoleTund1.csproj.CoreCompileInputs.cache
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\bin\Debug\net5.0\ConsoleTund1.exe
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\bin\Debug\net5.0\ConsoleTund1.deps.json
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\bin\Debug\net5.0\ConsoleTund1.runtimeconfig.json
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\bin\Debug\net5.0\ConsoleTund1.runtimeconfig.dev.json
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\bin\Debug\net5.0\ConsoleTund1.dll
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\bin\Debug\net5.0\ref\ConsoleTund1.dll
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\bin\Debug\net5.0\ConsoleTund1.pdb
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\obj\Debug\net5.0\ConsoleTund1.dll
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\obj\Debug\net5.0\ref\ConsoleTund1.dll
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\obj\Debug\net5.0\ConsoleTund1.pdb
+C:\Users\Жемчужина\Desktop\School\Programming\Rider\csharp\ConsoleTund1\ConsoleTund1\obj\Debug\net5.0\ConsoleTund1.genruntimeconfig.cache
